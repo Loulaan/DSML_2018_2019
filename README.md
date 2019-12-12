@@ -1,1 +1,1 @@
-# DSML_2018_2019
+# Data Science - Machine Learning homework assignments
